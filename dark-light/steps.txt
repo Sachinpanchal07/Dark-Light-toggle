@@ -1,0 +1,4 @@
+first create a useState varaible to toggle [darkMode, setDarkMode] = false;
+then make function which will toggle this state varaible.
+use useEffect to add or remove class in html for dark-light mode.
+add class setup in tailwind css, in index.css.
